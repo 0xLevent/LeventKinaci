@@ -16,15 +16,15 @@ About me 💯
 ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 💻 OS
- Ubuntu Windows
+ |Ubuntu| |Windows|
 
 🎯 Skills
 ⌨️ Programming languages
-Java Python Solidity 
+|Java| |Python| |Solidity| 
 
 🐍 Vyper
 🎛 Frameworks and runtime environments
-Angular Node.js PyTorch TensorFlow
+|Angular| |Node.js| |PyTorch| |TensorFlow|
 
 
 
