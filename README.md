@@ -16,8 +16,9 @@ About me 💯
 ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 💻 OS
-
-| — Ubuntu — | — Windows — |
+| Başlık1 | Başlık2 | Başlık3 |
+| —— | —— | —— |
+| Ubuntu | Windows | |
 
 🎯 Skills
 ⌨️ Programming languages
