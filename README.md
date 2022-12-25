@@ -1,6 +1,6 @@
 Hi there 👋 I'm Levent
 
-Discord GitHub LinkedIn    Twitter  
+Discord GitHub LinkedIn    [Twitter](https://www.twitter/uyumakistiyoree.com)
 
 About me 💯
 🔭 I'm currently working on what's next.
