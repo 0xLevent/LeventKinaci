@@ -5,22 +5,27 @@ Hi there 👋 I'm Levent
 [Twitter](https://www.twitter/uyumakistiyoree.com)
 
 About me 💯
+
 🔭 I'm currently working on what's next.
+
 🔧 My day job is running an AI data company called DAITA Technologies as its Founder and CEO.
+
 👨‍💻 To keep things interesting, I'm also a Blockchain Consultant at Apps with love and elementum, as well as a Product Advisor at Lossless.
-➕ Previously, I founded Alethena, a company pioneering Ethereum-based tokenised shares and their trading via an automated market maker in Switzerland.
+
+
 🎓 I hold a Master's degree in Quantitative Finance from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
+
 ❤️ Generally, I'm truly passionate about Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering.
-📫 How to reach me: pascal.caversaccio@hotmail.ch.
-🏠 Where I'm at home: I'm proudly based in Berne, Switzerland.
+
+📫 How to reach me: lvtknc@gmail.com
+🏠 Where I'm at home: I'm proudly based in Ankara, Turkey.
 🌱 I'm currently learning not to go insane – broadly speaking.
 💬 Ask me about anything – maybe I can help you; most likely not.
 ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 💻 OS
-| Başlık1 | Başlık2 | Başlık3 |
-| —— | —— | —— |
-| Ubuntu | Windows | |
+
+Ubuntu Windows 
 
 🎯 Skills
 ⌨️ Programming languages
