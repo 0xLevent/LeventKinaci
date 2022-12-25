@@ -1,7 +1,7 @@
 Hi there 👋 I'm Levent
 
 [Discord](https://www.discordapp.com/users/Levent#8606)
-  ([Linkedn](https://www.linkedin.com/in/levent-k%C4%B1nac%C4%B1-315052230))
+  [Linkedn](https://www.linkedin.com/in/levent-k%C4%B1nac%C4%B1-315052230)
     [Twitter](https://www.twitter/uyumakistiyoree.com)
 
 About me 💯
