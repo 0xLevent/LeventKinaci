@@ -13,6 +13,7 @@ About me 💯
 🌱 I'm currently learning not to go insane – broadly speaking.
 💬 Ask me about anything – maybe I can help you; most likely not.
 ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
+
 💻 OS
  Ubuntu Windows
 
