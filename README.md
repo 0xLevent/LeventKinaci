@@ -17,7 +17,7 @@ About me 💯
 
 💻 OS
 
-|- Ubuntu -| |- Windows -|
+| — Ubuntu — | — Windows — |
 
 🎯 Skills
 ⌨️ Programming languages
