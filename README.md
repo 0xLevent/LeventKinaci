@@ -28,16 +28,12 @@ About me 💯
 ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
 💻 OS
 
-Ubuntu Windows 
+|    Ubuntu     |    Windows    |      
+| ------------- |:-------------:| 
+
+  
 
 🎯 Skills
 ⌨️ Programming languages
