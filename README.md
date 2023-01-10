@@ -11,7 +11,6 @@ About me 💯
 👨‍💻 To keep things interesting, I'm also a Blockchain Consultant at Apps with love and elementum, as well as a Product Advisor at Lossless.
 
 
-🎓 I hold a Master's degree in Quantitative Finance from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
 
 ❤️ Generally, I'm truly passionate about Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering.
 
@@ -39,21 +38,13 @@ About me 💯
 
 🐍 Vyper
 🎛 Frameworks and runtime environments
-|Angular| |Node.js| |PyTorch| |TensorFlow|
+|Angular| |Node.js| |React| 
 
 
 
 🛠 Toolings, platforms, infrastructure providers, and libraries
 AWS Cloudflare Git Postman
 
-NumPy OpenCV SciPy
-
-ethers.js
-DappTools
-Foundry
-web3.js
-📦 npm packages
-xdeployer – A Hardhat plugin to deploy your smart contracts across multiple Ethereum Virtual Machine (EVM) chains with the same deterministic address.
 📚 Smart contract libraries
 🐍 snekmate – State-of-the-art, highly opinionated, hyper-optimised, and secure 🐍Vyper smart contract building blocks.
 😎 Miscellaneous
@@ -62,11 +53,5 @@ Batch Distributor – Helper smart contract for batch sending both native and ER
 CREATE2 Deployer – Helper smart contract to make easier and safer usage of the CREATE2 EVM opcode.
 🕵️‍♂️ TORN Detector – Detect if a contract has been deployed in the latest (or predefined) block from an address that was previously funded through Tornado.Cash.
 💰 Funding
-Bitcoin Ethereum Stripe
+ETH ⧫
 
-🔎 Some stats
-Pascal's GitHub Stats
-
-Top Langs
-
-visitors
